@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<Workspace>
+  <ConfigDictionary>
+    
+  <CurrentConfigs><Project>mpgl1-efmw-01/Debug</Project></CurrentConfigs></ConfigDictionary>
+  <Desktop>
+    <Static>
+      <Workspace>
+        <ColumnWidths>
+          
+          
+          
+          
+        <Column0>244</Column0><Column1>27</Column1><Column2>27</Column2><Column3>27</Column3></ColumnWidths>
+      </Workspace>
+    <Build><ColumnWidth0>20</ColumnWidth0><ColumnWidth1>1395</ColumnWidth1><ColumnWidth2>372</ColumnWidth2><ColumnWidth3>93</ColumnWidth3></Build><Find-in-Files><ColumnWidth0>569</ColumnWidth0><ColumnWidth1>94</ColumnWidth1><ColumnWidth2>854</ColumnWidth2><ColumnWidth3>379</ColumnWidth3></Find-in-Files><TerminalIO/><Debug-Log><ColumnWidth0>20</ColumnWidth0><ColumnWidth1>1861</ColumnWidth1></Debug-Log></Static>
+    <Windows>
+      
+    <Wnd0>
+        <Tabs>
+          <Tab>
+            <Identity>TabID-5106-9591</Identity>
+            <TabName>Workspace</TabName>
+            <Factory>Workspace</Factory>
+            <Session>
+              
+            <NodeDict><ExpandedNode>mpgl1-efmw-01</ExpandedNode><ExpandedNode>mpgl1-efmw-01/Application</ExpandedNode><ExpandedNode>mpgl1-efmw-01/Application/Include</ExpandedNode><ExpandedNode>mpgl1-efmw-01/Application/Source</ExpandedNode><ExpandedNode>mpgl1-efmw-01/Application/Source/user_app1.c</ExpandedNode><ExpandedNode>mpgl1-efmw-01/_BSP</ExpandedNode><ExpandedNode>mpgl1-efmw-01/_BSP/Includes</ExpandedNode><ExpandedNode>mpgl1-efmw-01/_BSP/Source</ExpandedNode><ExpandedNode>mpgl1-efmw-01/_CMSIS</ExpandedNode><ExpandedNode>mpgl1-efmw-01/_Drivers</ExpandedNode><ExpandedNode>mpgl1-efmw-01/_Drivers/Include</ExpandedNode><ExpandedNode>mpgl1-efmw-01/_Drivers/Source</ExpandedNode></NodeDict></Session>
+          </Tab>
+        </Tabs>
+        
+      <SelectedTab>0</SelectedTab></Wnd0><Wnd2><Tabs><Tab><Identity>TabID-32432-14467</Identity><TabName>Build</TabName><Factory>Build</Factory><Session/></Tab><Tab><Identity>TabID-12336-15048</Identity><TabName>Find in Files</TabName><Factory>Find-in-Files</Factory><Session/></Tab><Tab><Identity>TabID-2886-21775</Identity><TabName>Debug Log</TabName><Factory>Debug-Log</Factory><Session/></Tab></Tabs><SelectedTab>2</SelectedTab></Wnd2></Windows>
+    <Editor>
+      
+      
+      
+      
+    <Pane><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\application\main.c</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd><XPos2>0</XPos2><YPos2>57</YPos2><SelStart2>3343</SelStart2><SelEnd2>3343</SelEnd2></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\..\firmware_mpg_common\application\user_app1.c</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd><XPos2>0</XPos2><YPos2>354</YPos2><SelStart2>14222</SelStart2><SelEnd2>14222</SelEnd2></Tab><ActiveTab>1</ActiveTab></Pane><ActivePane>0</ActivePane><Pane/><Sizes><Pane><X>986003</X><Y>1000000</Y></Pane><Pane><X>13996</X><Y>1000000</Y></Pane></Sizes><SplitMode>4</SplitMode></Editor>
+    <Positions>
+      
+      
+      
+      
+      
+    <Top><Row0><Sizes><Toolbar-0607A7C0><key>iaridepm.enu1</key></Toolbar-0607A7C0></Sizes></Row0></Top><Left><Row0><Sizes><Wnd0><Rect><Top>-2</Top><Left>-2</Left><Bottom>374</Bottom><Right>335</Right><x>-2</x><y>-2</y><xscreen>872</xscreen><yscreen>242</yscreen><sizeHorzCX>996571</sizeHorzCX><sizeHorzCY>376361</sizeHorzCY><sizeVertCX>385143</sizeVertCX><sizeVertCY>584759</sizeVertCY></Rect></Wnd0></Sizes></Row0></Left><Right><Row0><Sizes/></Row0></Right><Bottom><Row0><Sizes><Wnd2><Rect><Top>-2</Top><Left>-2</Left><Bottom>224</Bottom><Right>877</Right><x>-2</x><y>-2</y><xscreen>879</xscreen><yscreen>226</yscreen><sizeHorzCX>1004571</sizeHorzCX><sizeHorzCY>351477</sizeHorzCY><sizeVertCX>563429</sizeVertCX><sizeVertCY>367030</sizeVertCY></Rect></Wnd2></Sizes></Row0></Bottom><Float><Sizes/></Float></Positions>
+  </Desktop>
+</Workspace>
+
+
